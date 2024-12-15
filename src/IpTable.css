@@ -1,0 +1,25 @@
+.ip-table-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .ip-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  .ip-table th, .ip-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .ip-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }
